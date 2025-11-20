@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/BlazorHybridWinFormsDemo.Razor/BlazorHybridWinFormsDemo.Razor.csproj" Id="0143eb07-dd1a-4a29-b7c0-0493866fe032" />
+  <Project Path="src/BlazorHybridWinFormsDemo.WinForms/BlazorHybridWinFormsDemo.WinForms.csproj" />
+</Solution>
