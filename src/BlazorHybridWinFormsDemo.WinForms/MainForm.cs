@@ -10,8 +10,6 @@ namespace BlazorHybridWinFormsDemo.WinForms;
 
 public partial class MainForm : Form, IWinFormsShell
 {
-    private bool _isFullScreen = false;
-
     public MainForm(IServiceProvider serviceProvider)
     {
         InitializeComponent();
